@@ -188,6 +188,15 @@
     {
         "gameType": "BEDWARS",
         "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Orchid",
+        "festival": "NONE",
+        "minBuild": 65,
+        "maxBuild": 87,
+        "buildRadius": 94
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
         "name": "Paladin",
         "festival": "NONE",
         "minBuild": 63,
@@ -202,6 +211,15 @@
         "minBuild": 59,
         "maxBuild": 85,
         "buildRadius": 101
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Raze",
+        "festival": "NONE",
+        "minBuild": 61,
+        "maxBuild": 89,
+        "buildRadius": 99
     },
     {
         "gameType": "BEDWARS",
@@ -435,6 +453,15 @@
     {
         "gameType": "BEDWARS",
         "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Infinite",
+        "festival": "NONE",
+        "minBuild": 67,
+        "maxBuild": 89,
+        "buildRadius": 89
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
         "name": "Katsu",
         "festival": "NONE",
         "minBuild": 67,
@@ -614,6 +641,15 @@
         "minBuild": 50,
         "maxBuild": 101,
         "buildRadius": 105
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Ambush",
+        "festival": "NONE",
+        "minBuild": 67,
+        "maxBuild": 102,
+        "buildRadius": 145
     },
     {
         "gameType": "BEDWARS",
@@ -864,6 +900,15 @@
     {
         "gameType": "BEDWARS",
         "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Sanctum",
+        "festival": "NONE",
+        "minBuild": 60,
+        "maxBuild": 92,
+        "buildRadius": 149
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
         "name": "Serenity",
         "festival": "NONE",
         "minBuild": 65,
@@ -915,6 +960,15 @@
         "minBuild": 67,
         "maxBuild": 107,
         "buildRadius": 128
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Urban Plaza",
+        "festival": "NONE",
+        "minBuild": 56,
+        "maxBuild": 84,
+        "buildRadius": 109
     },
     {
         "gameType": "BEDWARS",
@@ -1090,6 +1144,15 @@
         "minBuild": 60,
         "maxBuild": 89,
         "buildRadius": 98
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Impere",
+        "festival": "NONE",
+        "minBuild": 67,
+        "maxBuild": 105,
+        "buildRadius": 189
     },
     {
         "gameType": "BEDWARS",
