@@ -224,6 +224,15 @@
     {
         "gameType": "BEDWARS",
         "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Beeeee",
+        "festival": "SUMMER",
+        "minBuild": 75,
+        "maxBuild": 102,
+        "buildRadius": 131
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
         "name": "Boardwalk",
         "festival": "SUMMER",
         "minBuild": 67,
@@ -950,6 +959,15 @@
         "minBuild": 58,
         "maxBuild": 81,
         "buildRadius": 103
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Montipora",
+        "festival": "SUMMER",
+        "minBuild": 64,
+        "maxBuild": 99,
+        "buildRadius": 133
     },
     {
         "gameType": "BEDWARS",
