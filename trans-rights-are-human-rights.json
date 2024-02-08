@@ -124,6 +124,15 @@
     {
         "gameType": "BEDWARS",
         "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Harvesting",
+        "festival": "NONE",
+        "minBuild": 67,
+        "maxBuild": 96,
+        "buildRadius": 113
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
         "name": "Invasion",
         "festival": "NONE",
         "minBuild": 75,
@@ -175,6 +184,15 @@
         "minBuild": 64,
         "maxBuild": 95,
         "buildRadius": 96
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Nostalgia",
+        "festival": "NONE",
+        "minBuild": 69,
+        "maxBuild": 97,
+        "buildRadius": 111
     },
     {
         "gameType": "BEDWARS",
