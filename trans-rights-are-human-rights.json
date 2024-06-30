@@ -169,6 +169,15 @@
     {
         "gameType": "BEDWARS",
         "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Lost Temple",
+        "festival": "NONE",
+        "minBuild": 68,
+        "maxBuild": 92,
+        "buildRadius": 111
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
         "name": "Orientwood",
         "festival": "LUNAR_NEW_YEAR",
         "reskinOf": "BEDWARS|bedwars_eastwood_4team",
@@ -184,6 +193,15 @@
         "minBuild": 64,
         "maxBuild": 95,
         "buildRadius": 96
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Mystery",
+        "festival": "NONE",
+        "minBuild": 62,
+        "maxBuild": 93,
+        "buildRadius": 110
     },
     {
         "gameType": "BEDWARS",
@@ -581,9 +599,9 @@
         "pool": "BEDWARS_4TEAMS_SLOW",
         "name": "Stonekeep",
         "festival": "NONE",
-        "minBuild": 30,
-        "maxBuild": 76,
-        "buildRadius": 100
+        "minBuild": 54,
+        "maxBuild": 96,
+        "buildRadius": 97
     },
     {
         "gameType": "BEDWARS",
@@ -704,6 +722,15 @@
         "minBuild": 67,
         "maxBuild": 91,
         "buildRadius": 107
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Arcade",
+        "festival": "NONE",
+        "minBuild": 62,
+        "maxBuild": 91,
+        "buildRadius": 105
     },
     {
         "gameType": "BEDWARS",
@@ -841,6 +868,15 @@
         "minBuild": 60,
         "maxBuild": 84,
         "buildRadius": 129
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Keep",
+        "festival": "NONE",
+        "minBuild": 34,
+        "maxBuild": 62,
+        "buildRadius": 128
     },
     {
         "gameType": "BEDWARS",
@@ -1041,6 +1077,15 @@
         "minBuild": 56,
         "maxBuild": 84,
         "buildRadius": 109
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Vigilante",
+        "festival": "NONE",
+        "minBuild": 63,
+        "maxBuild": 88,
+        "buildRadius": 106
     },
     {
         "gameType": "BEDWARS",
